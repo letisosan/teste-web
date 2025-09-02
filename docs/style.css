@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(245, 245, 165);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    .central {
+        text-align: center;
+    }
+    .item-menu {
+        display: inline;
+        margin: 0.90rem;
+        background-color: pink;
+        padding: 0.4rem;
+        border-right-style: solid;
+        border-color: rgb(240, 30, 100);
+    }
+    .item-menu:hover {
+        background-color: rgb(210, 137, 233);
+        color: violet;
+    }
+    .menu {
+        background-color: palevioletred;
+        padding: 0.4rem;
+    }
